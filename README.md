@@ -13,14 +13,13 @@ This project provides a complete solution for managing faculty records with a mo
 * **Frontend:** React.js, Tailwind CSS, Vite
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB Atlas
-* **Authentication:** JWT (JSON Web Token)
 * **Other Tools:** Axios, React Router, Nodemon
 
 ---
 
 ## ✨ Features
 
-* 🔐 Authentication (Login / Register)
+* 🔐 Authentication (Login / Register) Role - Baised Login.
 * 👨‍🏫 Faculty Management (Add, Update, Delete)
 * 💰 Payroll Management System
 * 📝 Leave Management
